@@ -11,11 +11,11 @@ for i in range(total_lines_count, total_lines_count-lines, -1):
     print(i, 'th line would be:', tmp_file_content[i-1], end="")
 
 
-===== OUTPUT ======
-Insert the Filename: /tmp/file
-Enter number of lines to be displayed: 3        
-10 th line would be: line10
-9 th line would be: line9   
-8 th line would be: line8
+#===== OUTPUT ======
+#Insert the Filename: /tmp/file
+#Enter number of lines to be displayed: 3        
+#10 th line would be: line10
+#9 th line would be: line9   
+#8 th line would be: line8          
 
 
