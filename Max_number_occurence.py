@@ -20,8 +20,8 @@ for x in range(0, len(act_list)):
 
 print('Total no of occurance: ', count)
 
-=== output ====
+#=== output ====
 
-Enter a list numbers or elements separated with space: 3 4 22 11 3 22
-The Largest number in List:  22
-Total no of occurance:  2
+#Enter a list numbers or elements separated with space: 3 4 22 11 3 22
+#The Largest number in List:  22
+#Total no of occurance:  2
